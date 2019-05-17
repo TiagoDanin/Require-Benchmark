@@ -1,0 +1,63 @@
+{
+	"name": "require-benchmark",
+	"main": "index.js",
+	"preferGlobal": false,
+	"version": "0.0.1",
+	"description": "Package loading time in NodeJs",
+	"author": {
+		"email": "TiagoDanin@outlook.com",
+		"name": "Tiago Danin",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"benchmark",
+		"debug",
+		"log",
+		"node",
+		"nodejs",
+		"package",
+		"packages",
+		"perf",
+		"performance",
+		"time",
+		"timing"
+	],
+	"scripts": {
+		"start": "node index.js",
+		"test": "xo && node example.js"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TiagoDanin/Require-Benchmark.git"
+	},
+	"homepage": "https://TiagoDanin.github.io/Require-Benchmark",
+	"bugs": {
+		"url": "https://github.com/TiagoDanin/Require-Benchmark/issues"
+	},
+	"github": {
+		"name": "Require-Benchmark",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md"
+	],
+	"devDependencies": {
+		"xo": "0.24.0"
+	},
+	"xo": {
+		"rules": {
+			"quote-props": "warn",
+			"eqeqeq": "warn",
+			"array-callback-return": "warn",
+			"require-atomic-updates": "warn",
+			"no-else-return": "off"
+		},
+		"semicolon": false
+	}
+}
