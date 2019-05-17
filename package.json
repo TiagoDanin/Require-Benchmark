@@ -45,7 +45,9 @@
 	},
 	"files": [
 		"LICENSE",
-		"README.md"
+		"README.md",
+		"index.js",
+		"package.json"
 	],
 	"devDependencies": {
 		"xo": "0.24.0"
