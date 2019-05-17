@@ -2,7 +2,7 @@
 	"name": "require-benchmark",
 	"main": "index.js",
 	"preferGlobal": false,
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Package loading time in NodeJs",
 	"author": {
 		"email": "TiagoDanin@outlook.com",
