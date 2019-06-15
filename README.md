@@ -1,8 +1,10 @@
 # Require Benchmark
 
-[![Travis](https://img.shields.io/travis/TiagoDanin/Require-Benchmark.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/Require-Benchmark) [![XO code style](https://img.shields.io/badge/code%20style-XO-red.svg?style=flat-square)](https://github.com/xojs/xo) [![Node](https://img.shields.io/node/v/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark) [![Version](https://img.shields.io/npm/v/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark) [![Downloads](https://img.shields.io/npm/dt/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark)
+[![Travis](https://img.shields.io/travis/TiagoDanin/Require-Benchmark.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/Require-Benchmark) [![Downloads](https://img.shields.io/npm/dt/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark) [![Node](https://img.shields.io/node/v/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark) [![Version](https://img.shields.io/npm/v/require-benchmark.svg?style=flat-square)](https://npmjs.org/package/require-benchmark) [![XO code style](https://img.shields.io/badge/code%20style-XO-red.svg?style=flat-square)](https://github.com/xojs/xo) 
 
 Package loading time in NodeJs
+
+<p align="center"><img src="screenshot.png"></p>
 
 ## Installation
 
