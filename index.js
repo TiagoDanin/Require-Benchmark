@@ -10,7 +10,7 @@ const label = name => {
 Module.prototype.require = function (name) {
 	console.time(label(name))
 	// eslint-disable-next-line prefer-rest-params
-	const output = oldRequire.apply(this, arguments)
+	const output = Reflect.apply(oldRequire, this, arguments)
 	console.timeEnd(label(name))
 	return output
 }
