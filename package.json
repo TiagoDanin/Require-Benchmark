@@ -50,7 +50,7 @@
 		"package.json"
 	],
 	"devDependencies": {
-		"xo": "0.29.1"
+		"xo": "0.30.0"
 	},
 	"xo": {
 		"rules": {
