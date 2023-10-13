@@ -28,7 +28,7 @@
 		"test": "xo && node example.js"
 	},
 	"engines": {
-		"node": ">=v14.16.1"
+		"node": ">=18.18.2"
 	},
 	"private": false,
 	"repository": {
